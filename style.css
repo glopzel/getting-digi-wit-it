@@ -8,38 +8,38 @@ body {
     margin-top: 1%;
   }
   
-  h1 {
-    font-family: 'Press Start 2P', cursive;
-  }
+h1 {
+   font-family: 'Press Start 2P', cursive;
+}
   
-  input {
-    font-size: 1.2rem;
-  }
+input {
+   font-size: 1.2rem;
+}
   
-  button {
+button {
     font-size: 1rem;
     background: white;
     border-style: none;
     padding: 0.25rem 0.4rem;
-  }
+}
   
-  button:hover {
+button:hover {
     background: purple;
     color: white;
-  }
+}
   
-  span {
+span {
     display: block;
     padding: 1rem;
     font-size: 1.2rem;
-  }
+}
   
-  #digiSearch {
+#digiSearch {
     display: flex;
     align-items: center;
-  }
+}
   
-  #digiContainer {
+#digiContainer {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -52,10 +52,10 @@ body {
     background: white;
     border-radius: 5px;
     color: black;
-  }
+}
   
-  #random {
+#random {
     border: 1px solid black;
     margin: 0.4rem;
     border-radius: 3px;
-  }
+}
